@@ -1,0 +1,21 @@
+# User Prompts for Leonardo AI
+
+## Prompt 1: Game Character Design
+"A fierce elven ranger character design sheet, full body front and three-quarter view, leather and leaf-pattern armor with a longbow, emerald green cloak, pointed ears, braided silver hair, determined expression, fantasy RPG style, clean white background for game asset extraction, highly detailed, masterpiece quality, sharp lines
+Negative Prompt: blurry, low quality, bad anatomy, extra fingers, deformed face, cropped"
+
+## Prompt 2: Environment Concept Art
+"A post-apocalyptic Tokyo street scene reclaimed by nature, vines and cherry blossom trees growing through cracked asphalt, abandoned cars covered in moss, a deer standing in the middle of the road, neon signs still flickering, golden hour lighting through hazy atmosphere, concept art style, cinematic composition, highly detailed environment design, matte painting feel
+Negative Prompt: people, modern vehicles, clean surfaces, watermark, text"
+
+## Prompt 3: Product Visualization
+"A sleek pair of futuristic wireless earbuds floating in mid-air, translucent midnight blue casing with internal circuit board visible, soft blue LED glow from the edges, minimalist product photography on a dark gradient background, light trails and particle effects surrounding the product, commercial quality, Apple-style promotional image, studio lighting
+Negative Prompt: blurry, low quality, distorted perspective, watermark, text, fingers"
+
+## Prompt 4: Tileable Texture
+"Seamless tileable texture of ancient stone wall, weathered gray limestone blocks with moss growing in crevices, mortar between stones showing age and cracks, subtle color variation between stones, natural wear patterns, high resolution texture map suitable for 3D rendering, top-down even lighting, PBR material quality
+Negative Prompt: seams, visible edges, unnatural patterns, shadows, objects"
+
+## Prompt 5: Character Illustration
+"An anime-style cyberpunk hacker girl sitting in a neon-lit room surrounded by holographic screens and floating data, short electric blue hair with cybernetic eye implant, oversized hoodie with circuit pattern, focused expression while typing, warm neon pink and cool cyan color scheme, detailed anime illustration style, dynamic lighting with screen glow, atmospheric particles in the air
+Negative Prompt: bad anatomy, extra fingers, distorted face, low quality, blurry, western style"

@@ -1,0 +1,16 @@
+# User Prompts for Claude Code
+
+## Prompt 1: Full-Stack Feature Implementation
+"I'm building a SaaS project management app with Next.js 14 (App Router), TypeScript, Prisma ORM, and PostgreSQL. I need to implement a real-time task board with drag-and-drop functionality. The board should have columns for 'To Do', 'In Progress', 'Review', and 'Done'. Tasks should persist their position when moved. Please implement the full feature including the database schema, API routes, and React components. Use Server Components where possible and Client Components only where interactivity is required."
+
+## Prompt 2: Debugging a Complex Issue
+"My Express.js API is experiencing intermittent 502 errors in production but works fine locally. The app runs behind Nginx as a reverse proxy on AWS EC2. Here's my Nginx config and the relevant Express middleware stack. The errors seem to correlate with high traffic periods. Can you analyze potential causes, suggest diagnostic steps, and provide fixes? Consider connection pooling, timeout configurations, memory leaks, and keep-alive settings."
+
+## Prompt 3: Code Review and Refactoring
+"Review this Python data pipeline code that processes CSV files and loads them into PostgreSQL. It currently works but is slow (processing 1M rows takes 45 minutes) and difficult to maintain. Please identify performance bottlenecks, suggest architectural improvements, and refactor the code. Consider batch processing, connection pooling, async I/O, and proper error handling with retry logic. Maintain backward compatibility with the existing database schema."
+
+## Prompt 4: Architecture Design
+"I need to design a microservices architecture for an e-commerce platform that handles 10,000 concurrent users. The platform needs: user authentication, product catalog, shopping cart, order processing, payment integration, inventory management, and notification services. Please propose the architecture including service boundaries, communication patterns (sync vs async), database choices per service, API gateway design, and deployment strategy using Kubernetes. Include a diagram description and explain your trade-off decisions."
+
+## Prompt 5: Security Audit
+"Audit this Node.js REST API for security vulnerabilities. The API handles user authentication (JWT), file uploads, and payment processing via Stripe. I've included the authentication middleware, file upload handler, and payment route. Please identify all security issues, rank them by severity (Critical/High/Medium/Low), explain the potential exploit for each, and provide the fixed code. Consider OWASP Top 10, dependency vulnerabilities, and infrastructure-level concerns."

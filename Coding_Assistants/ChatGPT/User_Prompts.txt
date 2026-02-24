@@ -1,0 +1,16 @@
+# User Prompts for ChatGPT
+
+## Prompt 1: Professional Writing
+"Write a comprehensive project proposal for migrating our company's monolithic application to a microservices architecture. The audience is executive leadership (CTO, VP of Engineering). Include: (1) Executive summary, (2) Current challenges with the monolith, (3) Proposed architecture with service boundaries, (4) Migration strategy (strangler fig pattern), (5) Risk assessment with mitigation plans, (6) Timeline and resource estimates, (7) Expected ROI and metrics for success. Use a professional, persuasive tone with data-driven arguments."
+
+## Prompt 2: Complex Analysis
+"Analyze the pros and cons of adopting Rust for our backend services (currently in Python/Django). Consider: (1) Performance improvements (latency, throughput, memory usage), (2) Developer productivity impact (learning curve, ecosystem maturity), (3) Hiring implications (Rust developer market), (4) Migration costs and timeline, (5) Interoperability with existing Python services, (6) Long-term maintenance considerations. Present as a decision matrix with weighted scoring."
+
+## Prompt 3: Code with Explanation
+"Implement a complete event sourcing system in TypeScript. Include: (1) Event store interface and in-memory implementation, (2) Aggregate base class with event application, (3) Example domain: a banking account with deposit, withdraw, and transfer events, (4) Projection/read model that maintains current balances, (5) Command handler with validation, (6) Event replay capability. Explain each pattern decision and how this differs from traditional CRUD."
+
+## Prompt 4: Learning Assistant
+"I'm a mid-level React developer trying to understand system design for senior-level interviews. Create a comprehensive study plan covering: (1) Key concepts I need to master (CAP theorem, load balancing, caching, databases, message queues), (2) How to approach system design questions methodically, (3) 5 practice problems with solution frameworks (design Twitter, design Uber, design YouTube, etc.), (4) Common pitfalls in system design interviews, (5) Resources ranked by quality. Adjust explanations for someone with frontend experience but limited backend/infra knowledge."
+
+## Prompt 5: Data Analysis with Code
+"I have a dataset of customer support tickets (ticket_id, customer_id, category, priority, created_at, resolved_at, satisfaction_score, agent_id). Use Code Interpreter to: (1) Clean the data and handle missing values, (2) Calculate key support metrics (average resolution time, first response time, CSAT by category), (3) Identify patterns in ticket volume (time of day, day of week, seasonal), (4) Find the top-performing and underperforming agents, (5) Build a simple prediction model for ticket priority based on text features, (6) Create a visual report with charts and recommendations."

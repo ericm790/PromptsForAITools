@@ -1,0 +1,16 @@
+# User Prompts for Cline
+
+## Prompt 1: New Feature Development
+"I need to add email notification functionality to my Node.js Express app. The app already has user authentication with PassportJS. I need: (1) A notification preferences page where users can toggle email types on/off, (2) An email service using Nodemailer with SendGrid transport, (3) Email templates for: welcome, password reset, weekly digest, and activity alerts, (4) A background job queue using Bull for sending emails asynchronously, (5) Database schema for notification preferences and email logs. Please plan the implementation, then execute step by step."
+
+## Prompt 2: Bug Fix with Investigation
+"Users are reporting that their session data is lost randomly after about 30 minutes, even though the session timeout is configured for 24 hours. The app uses Express with express-session and Redis as the session store. This only happens on our production deployment (3 Node.js instances behind a load balancer). Debug this step by step — examine the session config, Redis setup, and load balancer configuration."
+
+## Prompt 3: Test Suite Creation
+"This Python Django project has zero test coverage. Create a comprehensive test suite for the `orders` app which has models (Order, OrderItem, Payment), views (order CRUD, checkout, payment webhooks), and serializers. Write: (1) Model tests for validations and business logic methods, (2) API tests for all endpoints with various auth scenarios, (3) Webhook handler tests with mocked Stripe events, (4) Factory classes using Factory Boy, (5) Fixtures for common test data. Target 90%+ coverage."
+
+## Prompt 4: CI/CD Pipeline Setup
+"Set up a complete CI/CD pipeline for this TypeScript monorepo (Turborepo with 3 packages: web, api, shared). I need: (1) GitHub Actions workflow for PR checks (lint, type-check, test, build), (2) Separate deployment workflows for web (Vercel) and api (AWS ECS), (3) Environment-specific configurations (staging, production), (4) Database migration step in the deployment pipeline, (5) Slack notifications for deployment status. Create all workflow files and document the setup."
+
+## Prompt 5: Codebase Migration
+"Migrate this React class component project to use functional components with hooks. The project has 25 components, many using lifecycle methods (componentDidMount, componentDidUpdate, componentWillUnmount), local state, refs, and context. Please: (1) Analyze all components and categorize by migration complexity, (2) Start with leaf components (no children) and work up, (3) Convert lifecycle methods to useEffect hooks, (4) Replace this.state with useState/useReducer, (5) Update refs to use useRef, (6) Verify each component works after conversion."

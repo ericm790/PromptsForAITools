@@ -1,0 +1,16 @@
+# User Prompts for Windsurf
+
+## Prompt 1: Cascade Feature Build
+"I need to add a complete commenting system to my blog application (Next.js + Prisma + PostgreSQL). Cascade through all the layers: (1) Update the Prisma schema with a Comment model (nested replies support), (2) Create tRPC routes for CRUD operations, (3) Build React components for the comment thread UI with optimistic updates, (4) Add Zod validation schemas, (5) Write integration tests. Follow the existing patterns in the project."
+
+## Prompt 2: Intelligent Refactoring
+"Refactor the state management in my React app from prop drilling to Zustand. Currently, user settings and theme preferences are passed through 5+ component levels. Create appropriate Zustand stores, migrate the state, update all consuming components, and ensure TypeScript types are maintained. Show me the diff for each file."
+
+## Prompt 3: Complex Debugging
+"My app builds successfully but throws a hydration mismatch error in production. The error only appears on pages with dynamic content that depends on user locale. I suspect it's related to date formatting differences between server and client. Help me trace the issue through the component tree, identify all date formatting instances, and implement a consistent approach using a locale-aware utility."
+
+## Prompt 4: Full-Stack API Design
+"Design and implement a rate-limiting system for my Express.js API. Requirements: (1) Token bucket algorithm with configurable rates per route, (2) Redis-backed storage for distributed deployments, (3) Custom response headers showing remaining quota, (4) Middleware that integrates with existing auth middleware, (5) Admin API to view and manage rate limits. Make it production-ready with tests."
+
+## Prompt 5: Code Review and Quality
+"Review the pull request changes in my current git diff. Check for: (1) Code correctness and edge cases, (2) TypeScript type safety, (3) React performance issues (unnecessary re-renders), (4) Security vulnerabilities, (5) Test coverage gaps. Provide feedback organized by severity and suggest fixes for any issues found."

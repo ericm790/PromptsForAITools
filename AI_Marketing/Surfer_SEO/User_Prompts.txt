@@ -1,0 +1,16 @@
+# User Prompts for Surfer SEO
+
+## Prompt 1: Content Brief Generation
+"Create a comprehensive content brief for the keyword 'best CRM for small business 2025'. Include: (1) Search intent analysis with recommended content type, (2) Target word count based on top-ranking pages, (3) Recommended H2/H3 heading structure with 8-12 subtopics, (4) Top 20 NLP terms to include with suggested frequency, (5) People Also Ask questions to address, (6) Competitor content gaps — what the top 5 results miss, (7) Internal linking recommendations to our existing CRM-related content, (8) Meta title and description suggestions (3 variations each)."
+
+## Prompt 2: Existing Content Optimization
+"Audit and optimize our existing blog post 'How to Choose a Project Management Tool' (currently ranking position 18 for 'project management tools'). Analyze the top 5 ranking pages and provide: (1) Content score of our current article, (2) Missing NLP terms that competitors include, (3) Structural gaps — sections we need to add, (4) Sections we should expand or update, (5) Internal linking opportunities, (6) Updated meta title and description, (7) Estimated ranking improvement after optimization. Provide the optimized version with tracked changes."
+
+## Prompt 3: Keyword Cluster Strategy
+"Build a topical cluster strategy around 'email marketing' for our marketing SaaS blog. Deliverables: (1) Pillar page topic and brief, (2) 15 cluster content topics with target keywords and search volumes, (3) Content calendar suggesting publication order for topical authority, (4) Internal linking map between pillar and cluster pages, (5) Content type for each piece (guide, comparison, tutorial, case study), (6) Priority ranking based on keyword difficulty vs. business value. Goal: establish topical authority in email marketing within 6 months."
+
+## Prompt 4: Competitor Content Analysis
+"Analyze the content strategy of our top 3 competitors in the HR tech space: [Competitor A], [Competitor B], [Competitor C]. For each competitor: (1) Identify their top 20 ranking pages and keywords, (2) Analyze their content structure patterns, (3) Find keywords they rank for that we don't, (4) Identify their content gaps (topics they haven't covered), (5) Compare their domain authority and backlink profiles, (6) Recommend 10 content pieces we should create to close competitive gaps, prioritized by impact."
+
+## Prompt 5: Content Refresh Strategy
+"Identify and prioritize content refresh opportunities across our blog (200 posts). Recommend: (1) Top 10 posts with declining traffic that need immediate updates, (2) For each post: current ranking, target ranking, specific changes needed, (3) 5 posts that should be consolidated (cannibalization issues), (4) Posts that need new sections to address emerging search trends, (5) Posts where we can add FAQ schema for featured snippet opportunities, (6) A quarterly content refresh calendar for the next 12 months."

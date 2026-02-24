@@ -1,0 +1,16 @@
+# User Prompts for DALL-E 3
+
+## Prompt 1: Illustrated Book Cover
+"Create a book cover illustration for a mystery novel titled 'The Lighthouse Keeper's Secret'. The image shows a dramatic coastal scene at twilight — a tall, weathered lighthouse on a rocky cliff with a single beam cutting through thick fog. At the base of the lighthouse, a small figure in a dark raincoat stands holding a flickering lantern, looking out at a ghostly ship appearing in the mist. The color palette is deep navy, teal, and warm amber from the lights. Style: moody watercolor illustration with dramatic contrast. Include the title text at the top."
+
+## Prompt 2: Infographic-Style Image
+"Design a colorful infographic-style illustration showing 'The Water Cycle' for a children's science textbook. Include labeled stages: evaporation from a blue lake with upward arrows, condensation forming fluffy clouds, precipitation as rain falling on green mountains, and collection flowing back to the lake. Use bright, friendly colors — sky blue, grass green, sunny yellow. Style: clean vector illustration with simple, friendly labels in a rounded sans-serif font. White background."
+
+## Prompt 3: Interior Design Visualization
+"A cozy Scandinavian-style living room in winter, shot from the corner showing the full room. Features: a large bouclé cream sofa with mustard and terracotta throw pillows, a round wooden coffee table with books and a ceramic vase with dried pampas grass, a statement arc floor lamp, a jute rug on light oak hardwood floors, large windows with sheer linen curtains showing a snowy forest outside, floating wooden shelves with plants and candles, warm ambient lighting from multiple sources. Photorealistic interior photography, shot on a wide-angle lens."
+
+## Prompt 4: Food Photography
+"An overhead flatlay of a Mediterranean brunch spread on a rustic wooden table. Include: a round board with sliced sourdough, hummus in a clay bowl, cherry tomatoes on the vine, kalamata olives, crumbled feta cheese, sliced avocado, two poached eggs with visible runny yolks, fresh herbs (basil and dill), a small dish of olive oil, and two glasses of fresh orange juice. Natural morning light streaming from the left creating soft shadows. Food photography style, warm and inviting tones."
+
+## Prompt 5: Abstract Concept
+"A surreal dreamscape representing the concept of 'creative inspiration'. A person sits at a desk in the center of the image, but from their head, a colorful explosion of imagery erupts: musical notes transforming into birds, paint splashes forming galaxies, mathematical equations blooming into flowers, written words spiraling into a tornado of light. The desk is on a small floating island in a vast starry void. Style: digital art with vivid colors, magical realism, sense of motion and energy."

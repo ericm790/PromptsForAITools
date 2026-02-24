@@ -1,0 +1,16 @@
+# User Prompts for RooCode
+
+## Prompt 1: Architecture Design (Architect Mode)
+"Switch to Architect mode. I'm building a real-time multiplayer game backend. The game supports up to 100 concurrent players per room, has persistent player stats, and needs matchmaking. Design the architecture: (1) Choose between WebSockets, Server-Sent Events, or WebRTC for real-time communication, (2) Design the game state synchronization strategy, (3) Plan the matchmaking algorithm and queue system, (4) Database design for player profiles, match history, and leaderboards, (5) Infrastructure recommendations for autoscaling."
+
+## Prompt 2: Code Generation (Code Mode)
+"Switch to Code mode. Implement a complete authentication system for a Go web application using the Gin framework. Include: (1) User registration with password hashing (bcrypt), (2) Login with JWT token generation (access + refresh tokens), (3) Middleware for token validation and role-based authorization, (4) Password reset flow with secure token generation, (5) Rate limiting on auth endpoints. Follow Go idioms, use structured logging, and include comprehensive error handling."
+
+## Prompt 3: Debugging (Debug Mode)
+"Switch to Debug mode. My React application's state is inconsistent after concurrent API calls. Multiple components dispatch Redux actions simultaneously, and the final state doesn't match what I expect. The reducer handles FETCH_START, FETCH_SUCCESS, and FETCH_ERROR for 3 different data sources. Sometimes request B's loading state overrides request A's success state. Help me trace this issue, explain why it's happening, and implement a fix."
+
+## Prompt 4: Code Review (Review Mode)
+"Switch to Review mode. Review this pull request that adds a payment processing module to our Python FastAPI app. Check for: (1) Security issues (PCI compliance, data handling, injection attacks), (2) Error handling completeness (network failures, timeout handling, retries), (3) Race conditions in concurrent payment processing, (4) Proper logging (without sensitive data), (5) Test coverage adequacy. Provide feedback organized by severity."
+
+## Prompt 5: Documentation (Document Mode)
+"Switch to Document mode. Generate complete documentation for our internal npm package '@company/ui-components'. The package has 20 components in src/components/. For each component, generate: (1) A description of purpose and use cases, (2) Props table with types, defaults, and descriptions, (3) Usage examples (basic and advanced), (4) Accessibility notes, (5) Related components. Also generate an overview README and a migration guide from v2 to v3."

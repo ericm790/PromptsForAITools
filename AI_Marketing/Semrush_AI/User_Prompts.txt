@@ -1,0 +1,16 @@
+# User Prompts for Semrush AI
+
+## Prompt 1: Comprehensive SEO Audit
+"Run a full SEO audit for our e-commerce website (selling sustainable home goods). Analyze: (1) Technical SEO — site speed, Core Web Vitals, mobile usability, crawl errors, and indexation issues, (2) On-page SEO — top 20 landing pages' title tags, meta descriptions, heading structure, and content quality, (3) Keyword portfolio — current rankings, lost keywords, and new ranking opportunities, (4) Backlink health — toxic links, lost links, and domain authority trend, (5) Competitor comparison — versus our top 3 competitors. Provide a prioritized action plan with estimated traffic impact for each fix."
+
+## Prompt 2: Competitive Intelligence Report
+"Create a comprehensive competitive analysis of the top 5 project management SaaS tools (Asana, Monday.com, ClickUp, Notion, Trello). Analyze: (1) Organic traffic estimates and top keywords for each, (2) Paid search spend and top ad copy, (3) Content marketing strategy — blog topics, publishing frequency, top-performing content, (4) Backlink profile comparison — domain authority, referring domains, link-building tactics, (5) Social media presence and engagement rates, (6) Content gaps across all competitors. Deliver a strategy document showing where we can win."
+
+## Prompt 3: Keyword Strategy Development
+"Develop a 6-month keyword strategy for our fintech startup (personal finance app). Deliverables: (1) Core keyword universe — 100 keywords across awareness, consideration, and decision stages, (2) Keyword clustering into 10-15 topical groups, (3) Content type mapping — which keywords need blog posts, landing pages, tools, or videos, (4) Priority matrix — keywords ranked by search volume, difficulty, and business value, (5) Quick win identification — keywords we can rank for within 3 months, (6) Featured snippet opportunities, (7) Monthly content production targets."
+
+## Prompt 4: PPC Campaign Analysis
+"Analyze our Google Ads account performance and competitor PPC strategy. Review: (1) Our current campaigns — keyword performance, quality scores, and wasted spend, (2) Competitor ad copy analysis — what messaging they use and what landing pages they drive to, (3) Keyword gap identification — profitable keywords competitors bid on that we don't, (4) Ad copy recommendations — 10 new ad variations based on competitor and industry best practices, (5) Budget reallocation recommendations — shift spend from underperformers to opportunities, (6) Estimated impact of implementing all recommendations."
+
+## Prompt 5: Content Marketing Plan
+"Build a quarterly content marketing plan for our B2B cybersecurity company targeting CISOs, IT directors, and security engineers. Include: (1) Content pillar strategy — 5 core topics based on search demand and business relevance, (2) 30 specific article topics with target keywords, search volumes, and keyword difficulty, (3) Content format recommendations — when to use long-form guides, comparison posts, thought leadership, case studies, or tools, (4) Distribution strategy — organic search, LinkedIn, email, and partnerships, (5) KPIs and benchmarks — traffic targets per piece, link targets, and conversion expectations, (6) Resource requirements — estimated production time and recommended team structure."

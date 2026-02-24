@@ -1,0 +1,16 @@
+# User Prompts for Gemini
+
+## Prompt 1: Multimodal Analysis
+"I'm uploading a screenshot of my application's dashboard. Analyze the UI and identify: (1) Visual hierarchy issues — what draws attention first and is that correct? (2) Accessibility problems — color contrast, touch targets, text readability, (3) UX inconsistencies — spacing, alignment, component style mismatches, (4) Suggestions for improvement with specific design recommendations. Provide a prioritized list of changes."
+
+## Prompt 2: Complex Problem Solving
+"I need to design an algorithm for a ride-sharing matching system. Requirements: (1) Match riders with nearby drivers in real-time (< 3 second response), (2) Optimize for minimum wait time AND minimum detour for carpooling, (3) Handle surge pricing based on demand/supply ratio in geographic cells, (4) Support scheduled rides with advance matching, (5) Handle cancellations and re-matching. Provide the algorithm design, complexity analysis, data structures needed, and pseudocode."
+
+## Prompt 3: Research and Analysis
+"Analyze the current state of edge computing for AI inference. I need a thorough analysis covering: (1) Hardware options (NVIDIA Jetson, Google Coral, Intel Neural Compute Stick, Apple Neural Engine), (2) Software frameworks (TensorFlow Lite, ONNX Runtime, Core ML, TensorRT), (3) Performance benchmarks for common models (image classification, object detection, NLP), (4) Power consumption vs accuracy trade-offs, (5) Real-world deployment case studies. Provide a comparison matrix and recommendation for an IoT product."
+
+## Prompt 4: Code Generation and Explanation
+"Write a Python implementation of a distributed task queue similar to Celery but simplified. Include: (1) A task decorator for registering functions, (2) A broker interface with Redis implementation, (3) Worker processes that consume tasks from the queue, (4) Result backend for storing task results, (5) Retry logic with exponential backoff, (6) Basic monitoring (task counts, worker status). Explain the architecture decisions and trade-offs compared to production solutions like Celery."
+
+## Prompt 5: Data Analysis
+"I have a CSV with 2 years of e-commerce transaction data (order_id, customer_id, product_category, amount, date, region, is_returned). Write a comprehensive analysis in Python that: (1) Identifies top revenue drivers and seasonal patterns, (2) Performs customer segmentation using RFM analysis, (3) Calculates and visualizes customer lifetime value, (4) Analyzes return rates by category and region with statistical significance, (5) Builds a simple churn prediction model, (6) Creates an executive summary dashboard with Plotly. Explain each finding."

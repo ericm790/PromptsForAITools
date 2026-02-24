@@ -1,0 +1,16 @@
+# User Prompts for Adobe Firefly
+
+## Prompt 1: Social Media Marketing
+"A vibrant flat-lay product photography composition for a summer skincare brand campaign on Instagram. Sunscreen tubes, moisturizer jars, and lip balm arranged on a sandy beach surface with seashells, tropical flowers (plumeria), and palm leaf shadows. Bright, saturated colors with a cheerful tropical palette of coral, turquoise, and warm gold. Clean commercial photography style, top-down angle, bright natural sunlight. Content Type: Photo."
+
+## Prompt 2: Text Effect Design
+"The word 'OCEAN' with each letter made entirely of realistic ocean water, with tiny waves, foam, and splashes forming the letter shapes. Small tropical fish swimming through the letters. Coral and seaweed growing at the base of the letters. Deep blue to turquoise gradient background suggesting deep ocean. Photorealistic water texture with light caustics visible through the transparent water letters."
+
+## Prompt 3: Brand Illustration
+"A warm, modern illustration of diverse people working together in a creative workspace for a tech company's 'About Us' page. Show 5-6 people of different ethnicities collaborating around screens, whiteboards, and sticky notes. The space has large windows, plants, and modern furniture. Style: clean flat illustration with subtle texture and gradient warmth, using a limited professional color palette of navy blue, coral orange, cream, and sage green. Friendly, inclusive, and energetic feel."
+
+## Prompt 4: Generative Fill Concept
+"A Photoshop Generative Fill prompt for extending a portrait photo: The selected area extends from the subject's shoulders outward. Fill with a cozy autumn park background — golden and red maple trees, a walking path covered with fallen leaves, soft afternoon sunlight creating warm dappled light patterns. The lighting should match the portrait's existing warm side lighting. Seamless blend with the original photo's depth of field."
+
+## Prompt 5: Vector Pattern Design
+"Create a seamless repeating pattern design suitable for fabric or wallpaper. The pattern features delicate wildflowers — lavender, daisies, and small roses — interspersed with fine botanical line art of leaves and stems. Style: watercolor illustration on a cream/off-white background. Soft, muted palette of dusty rose, sage green, lavender, and warm amber. Romantic cottagecore aesthetic. Vector format for Illustrator, scalable and editable."

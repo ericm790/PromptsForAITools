@@ -1,0 +1,16 @@
+# User Prompts for Devin
+
+## Prompt 1: End-to-End Feature Development
+"Build a complete user notification system for our Django REST Framework backend. Requirements: (1) Create a Notification model with types (info, warning, error, success), read/unread status, and user FK. (2) Build CRUD API endpoints with pagination and filtering. (3) Add a WebSocket consumer using Django Channels for real-time push. (4) Write comprehensive tests for all endpoints and the WebSocket consumer. (5) Update the existing API documentation. The project uses PostgreSQL, Redis for Channels layer, and pytest for testing."
+
+## Prompt 2: Bug Investigation and Fix
+"Users are reporting that our Stripe webhook handler is occasionally processing the same payment twice, resulting in duplicate order records. Investigate the webhook handler at `/api/webhooks/stripe`, the order creation logic, and the database transaction handling. Identify the race condition, implement idempotency (using Stripe's idempotency keys and/or database constraints), write tests that simulate concurrent webhook deliveries, and verify the fix."
+
+## Prompt 3: Migration Between Technologies
+"Migrate our frontend build system from Create React App to Vite. The project has 50+ components, custom webpack configurations for SVG handling and path aliases, environment variable usage (.env files), and a Jest test suite. Please: (1) Create the Vite configuration, (2) Update all import paths and aliases, (3) Migrate environment variable usage to Vite's format, (4) Convert the Jest setup to Vitest, (5) Verify the dev server and production build work correctly. Document any breaking changes."
+
+## Prompt 4: Documentation and API Reference
+"Our FastAPI project at /src has grown to 30+ endpoints but has no documentation beyond auto-generated Swagger. Create comprehensive documentation: (1) A README.md with setup instructions, architecture overview, and contribution guide. (2) An API reference document organized by resource with request/response examples. (3) Inline docstrings for all route handlers and service functions. (4) A CHANGELOG.md retroactively built from recent git commits. Ensure all examples are tested and accurate."
+
+## Prompt 5: Performance Optimization
+"Our PostgreSQL queries on the analytics dashboard are timing out under load. The main query joins 4 tables (users, events, sessions, conversions) and aggregates data over 90-day windows for 100K+ users. Current execution time is 15+ seconds. Please: (1) Run EXPLAIN ANALYZE on the current queries, (2) Identify missing indexes and inefficient joins, (3) Rewrite queries for performance, (4) Consider materialized views or pre-aggregation strategies, (5) Benchmark before and after. Target: <500ms response time."

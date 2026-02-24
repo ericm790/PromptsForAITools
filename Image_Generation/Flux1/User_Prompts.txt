@@ -1,0 +1,16 @@
+# User Prompts for Flux.1
+
+## Prompt 1: Text Rendering in Image
+"A vintage coffee shop storefront with a hand-painted wooden sign reading 'THE DAILY GRIND - Est. 1987' above the entrance, warm morning light casting long shadows, brick exterior with ivy growing up the sides, a chalkboard menu stand outside reading 'Today's Special: Lavender Latte $5', cozy warm atmosphere, shot on 35mm film, slightly desaturated warm tones"
+
+## Prompt 2: Complex Multi-Subject Scene
+"A bustling night market in Bangkok, exactly five food stalls on each side of the walkway, each with different colored awnings (red, blue, yellow, green, orange), steam rising from woks and grills, string lights creating warm bokeh, a young woman in a yellow dress choosing food at the third stall, crowds of people walking in both directions, neon signs with Thai text, shot from slightly elevated perspective, photorealistic, vibrant colors"
+
+## Prompt 3: Product Photography with Branding
+"A premium skincare product flatlay on marble surface, three products: a round white jar labeled 'LUMINA Night Cream', a tall frosted glass bottle labeled 'LUMINA Hydrating Serum', and a tube labeled 'LUMINA Eye Contour', surrounded by fresh eucalyptus leaves and water droplets, soft diffused natural light from above, clean minimalist aesthetic, commercial product photography, crisp sharp focus on all products"
+
+## Prompt 4: Architectural Photography
+"A modern Japanese minimalist house with floor-to-ceiling windows overlooking a serene zen garden, interior view showing clean concrete walls, wooden floor, a single mid-century modern chair, the garden visible through the glass featuring raked gravel, large smooth stones, and a single maple tree with red autumn leaves, peaceful late afternoon golden light filtering through, architectural photography by Hiroshi Sugimoto"
+
+## Prompt 5: Stylized Illustration
+"A detailed illustrated map of a fantasy kingdom in the style of a Tolkien map, showing mountains in the north labeled 'The Iron Peaks', a large forest in the center labeled 'Whisperwood', a winding river called 'Silver Serpent' flowing from mountains to a coastal city labeled 'Port Sovereign', small illustrated castles, villages, and roads connecting them, parchment paper texture background, hand-drawn ink illustration style with watercolor washes, compass rose in the corner"

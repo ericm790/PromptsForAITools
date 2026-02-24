@@ -1,0 +1,16 @@
+# User Prompts for Replit
+
+## Prompt 1: Quick Prototype
+"Build a URL shortener web app with Node.js and Express. It should have: a clean landing page with an input field to paste long URLs, a backend that generates unique short codes and stores URL mappings in Replit DB, a redirect handler for short URLs, click tracking with basic analytics (click count, last accessed), and a simple dashboard showing all shortened URLs. Make it look professional with modern CSS."
+
+## Prompt 2: Full-Stack Application
+"Create a recipe sharing platform with Python Flask. Features: (1) User registration and login with session management, (2) Recipe CRUD with title, ingredients, instructions, cook time, and image URL, (3) Browse and search recipes with category filtering, (4) Favorite/bookmark recipes, (5) Responsive design with a Pinterest-style card layout. Use SQLite for the database and include sample seed data."
+
+## Prompt 3: API Development
+"Build a RESTful API for a personal finance tracker using Node.js and Express. Endpoints needed: (1) User auth (register, login, JWT tokens), (2) Transactions CRUD (income/expense, categories, amounts, dates), (3) Budget management (set monthly budgets per category), (4) Reports (monthly summaries, category breakdowns, trends). Include input validation, error handling, and Swagger documentation."
+
+## Prompt 4: Interactive Learning Project
+"Create an interactive JavaScript quiz app that teaches programming concepts. Features: (1) Multiple categories (variables, functions, loops, arrays, objects), (2) Multiple question types (multiple choice, true/false, code completion), (3) Progress tracking with scores stored in Replit DB, (4) Timed questions with visual timer, (5) Explanations for correct/incorrect answers, (6) Leaderboard. Use vanilla HTML, CSS, and JavaScript."
+
+## Prompt 5: Data Dashboard
+"Build a COVID-19 data dashboard using Python Flask that pulls data from a public API. Include: (1) Global statistics overview (cases, deaths, recovered), (2) Country-by-country comparison table with sorting, (3) Interactive charts using Chart.js (line charts for trends, bar charts for comparisons), (4) Search and filter by country/region, (5) Auto-refresh data every hour with caching. Make it visually appealing with a dark theme."

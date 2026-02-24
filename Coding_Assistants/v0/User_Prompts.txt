@@ -1,0 +1,16 @@
+# User Prompts for v0
+
+## Prompt 1: Landing Page
+"Create a stunning SaaS landing page for an AI writing assistant called 'WriteFlow'. Include: a hero section with gradient background, animated text, and CTA buttons; a features section with 6 feature cards using icons; a pricing section with 3 tiers (Free, Pro, Enterprise) with toggle between monthly/annual; a testimonials carousel with user photos and quotes; a FAQ accordion section; and a footer with newsletter signup. Use a purple-to-blue color scheme with dark mode support."
+
+## Prompt 2: Dashboard UI
+"Build a comprehensive analytics dashboard for a social media management tool. Include: (1) Top bar with user avatar, notifications bell with badge, and search, (2) Sidebar navigation with collapsible sections, (3) KPI cards showing followers, engagement rate, posts, and reach with trend indicators, (4) A line chart for follower growth over time, (5) A bar chart for engagement by platform, (6) Recent posts table with status badges, (7) Activity feed sidebar. Use a dark theme with accent colors per platform."
+
+## Prompt 3: E-Commerce Product Page
+"Design a premium product page for luxury headphones. Include: image gallery with thumbnail navigation and zoom on hover, product title with breadcrumbs, price with discount badge, color variant selector with visual swatches, size/model selector, quantity picker, add to cart button with animation, product description tabs (Overview, Specs, Reviews), star ratings with review summary, and related products carousel. Make it feel premium with clean typography and subtle animations."
+
+## Prompt 4: Form Component
+"Create a multi-step registration form for a fintech onboarding flow. Steps: (1) Personal info (name, email, phone with country code), (2) Identity verification (document upload with drag-and-drop, preview), (3) Financial profile (income range, employment status, investment experience), (4) Review and confirm. Include a progress stepper, form validation with real-time feedback, ability to go back and edit, and a confetti animation on successful completion."
+
+## Prompt 5: Mobile-First App UI
+"Build a food delivery app interface (mobile-first) with: (1) Search bar with category chips (Pizza, Sushi, Burgers, etc.), (2) Restaurant cards with image, rating, delivery time, and distance, (3) Filter sheet (slide up) with price range, cuisine type, and dietary options, (4) Restaurant detail page with menu sections, (5) Cart drawer with item list, quantity controls, and order summary. Use warm colors and rounded design elements."

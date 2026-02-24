@@ -1,0 +1,16 @@
+# User Prompts for PandasAI
+
+## Prompt 1: Sales Data Exploration
+"I've uploaded a CSV file with 50,000 rows of e-commerce sales data. Columns include order_id, customer_id, product_name, category, quantity, unit_price, discount, order_date, ship_date, region, and payment_method. Give me a complete overview: (1) Data quality report — missing values, duplicates, data types, (2) Top 10 products by total revenue, (3) Monthly revenue trend for the last 12 months, (4) Average order value by region, (5) Most popular payment methods by percentage. Show me the pandas code for each step."
+
+## Prompt 2: Data Cleaning Pipeline
+"My customer database export is a mess. The 'phone' column has numbers in 5 different formats (with/without country codes, dashes, spaces, parentheses). The 'email' column has some entries with leading/trailing spaces and mixed case. The 'signup_date' column has dates in both MM/DD/YYYY and YYYY-MM-DD formats. The 'age' column has some values stored as strings like 'twenty-five' and some negative values. Build me a complete cleaning pipeline that standardizes all of these columns, documents every transformation, and gives me a before/after comparison."
+
+## Prompt 3: Customer Cohort Analysis
+"Using my transactions dataset (customer_id, transaction_date, amount, product_category), perform a complete cohort analysis: (1) Define cohorts by the month of each customer's first purchase, (2) Calculate monthly retention rates for each cohort, (3) Create a retention heatmap visualization, (4) Calculate the average revenue per user (ARPU) by cohort over time, (5) Identify which cohorts have the best and worst retention, (6) Suggest what might explain the differences. Use pandas groupby, pivot_table, and seaborn for visualization."
+
+## Prompt 4: Multi-File Merge and Reconciliation
+"I have three files that need to be merged and reconciled: (1) 'inventory.csv' with columns [sku, product_name, warehouse_qty, last_updated], (2) 'sales.csv' with [sku, units_sold, sale_date, channel], and (3) 'returns.csv' with [order_id, sku, return_date, reason, refund_amount]. Merge these datasets on SKU, calculate net inventory (warehouse_qty - units_sold + returned_units), identify SKUs where inventory might go negative, flag products with return rates above 15%, and create a summary report grouped by product with total sales, total returns, return rate, and current estimated inventory."
+
+## Prompt 5: Time Series Feature Engineering
+"I have sensor data from IoT devices with columns [device_id, timestamp, temperature, humidity, pressure, vibration]. The data is recorded every 5 minutes for 90 days across 20 devices. I need to engineer features for a predictive maintenance model: (1) Rolling statistics (mean, std, min, max) with 1-hour, 6-hour, and 24-hour windows, (2) Rate of change (first derivative) for each sensor reading, (3) Lag features at 1, 6, 12, and 24 periods, (4) Time-based features (hour of day, day of week, is_weekend), (5) Cross-sensor correlation features, (6) Anomaly flags using z-score method (threshold > 3). Optimize for memory efficiency since this is a large dataset."

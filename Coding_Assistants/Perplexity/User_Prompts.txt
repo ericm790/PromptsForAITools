@@ -1,0 +1,16 @@
+# User Prompts for Perplexity
+
+## Prompt 1: Technical Research
+"What are the current best practices for implementing server-side rendering (SSR) in React applications in 2025? Compare React Server Components, Next.js App Router, and Remix approaches. Include performance benchmarks, developer experience trade-offs, and real-world adoption data from major companies. Cite primary sources and official documentation."
+
+## Prompt 2: Comparative Analysis
+"Compare the top 5 vector databases for production AI applications: Pinecone, Weaviate, Milvus, Qdrant, and ChromaDB. Evaluate them on: (1) Query performance at scale (1M+ vectors), (2) Pricing models, (3) Hosted vs self-hosted options, (4) Integration with popular ML frameworks, (5) Community size and support quality. Provide recent benchmark data and user experience reports."
+
+## Prompt 3: Current Events Research
+"What is the current state of AI regulation globally? Cover the EU AI Act, US executive orders and proposed legislation, China's AI regulations, and the UK's approach. For each, summarize: (1) Key provisions, (2) Enforcement mechanisms, (3) Industry impact, (4) Timeline for implementation. Highlight areas of convergence and divergence between approaches. Use sources from the last 3 months."
+
+## Prompt 4: Problem-Solving Research
+"I'm seeing high latency (>2s p95) in my PostgreSQL queries after our database grew to 50M rows. The main bottleneck is a query that joins 3 tables with complex WHERE conditions. What are the proven strategies to optimize this? Include: indexing strategies, query optimization techniques, partitioning approaches, read replica configurations, and caching layers. Cite PostgreSQL official docs and case studies from companies at similar scale."
+
+## Prompt 5: Learning and Exploration
+"Explain the current state of WebAssembly (Wasm) beyond the browser. Cover: (1) Server-side Wasm runtimes (Wasmtime, Wasmer, WasmEdge), (2) WASI and its role in portable computing, (3) Real-world use cases in cloud computing, edge computing, and embedded systems, (4) The component model and its implications, (5) How it compares to Docker containers for workload isolation. Include recent developments and industry adoption examples."

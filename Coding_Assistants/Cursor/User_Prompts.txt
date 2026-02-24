@@ -1,0 +1,20 @@
+# User Prompts for Cursor
+
+## Prompt 1: Codebase-Wide Refactoring
+"@codebase I need to migrate all API routes from Express.js to Hono.js. The project currently has 15 route files in `/src/routes/`. Please analyze all route files, identify the Express-specific patterns (middleware, req/res handling, error handling), and generate the equivalent Hono.js code for each file. Preserve all existing business logic and middleware chains. Start with a migration plan before making changes."
+
+## Prompt 2: Intelligent Code Completion
+"I'm writing a React custom hook called `useDebounce` that should work with TypeScript generics. It needs to debounce any value with a configurable delay, cleanup on unmount, and support an optional `immediate` flag for leading-edge execution. The hook should be fully typed so that the returned value maintains the same type as the input. Generate the complete implementation."
+
+## Prompt 3: Multi-File Feature Implementation
+"I need to add a complete authentication system to this Next.js project. Looking at @folder src/app, I can see there's no auth yet. Please implement: (1) A NextAuth.js configuration with Google and GitHub providers, (2) A middleware.ts for route protection, (3) Sign-in and sign-out components, (4) A server-side session helper, and (5) Updated layout.tsx to wrap the app with the session provider. Use the existing Prisma schema @file prisma/schema.prisma to add User and Account models."
+
+## Prompt 4: Debug from Terminal Error
+"I'm getting this error in my terminal when running `npm run build`:
+```
+Type error: Property 'status' does not exist on type 'ApiResponse<User>'
+```
+@file src/types/api.ts @file src/services/userService.ts — Can you trace the type chain, find where the mismatch occurs, and fix the type definitions? Also check if any other files would be affected by the fix."
+
+## Prompt 5: Performance Optimization
+"@file src/components/Dashboard.tsx This dashboard component re-renders excessively and is slow with 1000+ items. Profile the component for performance issues: unnecessary re-renders, expensive computations, large list rendering, and state management inefficiencies. Apply React optimization techniques (memo, useMemo, useCallback, virtualization) and explain each optimization."

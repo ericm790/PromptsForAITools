@@ -1,0 +1,16 @@
+# User Prompts for Jasper
+
+## Prompt 1: Blog Post Generation
+"Write a 2000-word SEO-optimized blog post for our B2B SaaS company (project management tool) targeting mid-market teams. Topic: '10 Signs Your Team Needs a Project Management Tool (And How to Choose One)'. Target keyword: 'best project management tool for teams'. Tone: authoritative but conversational. Include: a compelling introduction with a relatable scenario, data-backed points, comparison tips, a FAQ section targeting featured snippets, and a soft CTA to start a free trial. Audience: VP of Operations, team leads at companies with 50-200 employees."
+
+## Prompt 2: Email Marketing Campaign
+"Create a 5-email drip campaign for onboarding new trial users of our design platform. Email sequence: (1) Welcome + quick start guide, (2) Day 3: Feature highlight — AI-powered templates, (3) Day 7: Customer success story with social proof, (4) Day 10: Advanced tips + webinar invitation, (5) Day 13: Trial ending soon — upgrade offer with urgency. Brand voice: friendly, design-savvy, slightly playful. Include subject lines, preview text, and body copy for each email. Target metric: 40%+ open rate, 15%+ CTR."
+
+## Prompt 3: Social Media Content Calendar
+"Generate a 2-week social media content calendar for our organic coffee brand across Instagram, LinkedIn, and Twitter/X. Theme: 'Behind the Bean' — showcasing our farm-to-cup story. Include: (1) 14 Instagram posts with captions, hashtags, and visual descriptions, (2) 5 LinkedIn posts about sustainability and fair trade practices, (3) 10 Twitter/X posts mixing product highlights, coffee tips, and engagement questions. Tone: warm, sustainable, artisanal. Include Reels/Stories concepts. Target: increase engagement 25%."
+
+## Prompt 4: Landing Page Copy
+"Write complete copy for a product landing page for our AI-powered customer service chatbot. The page needs: (1) Hero section — headline, subheadline, and CTA, (2) Social proof bar — logo carousel placeholder, (3) Pain points section — 3 problems we solve with emotional language, (4) Features section — 6 features with benefit-driven headlines and descriptions, (5) How it works — 3-step process, (6) ROI calculator concept — metrics to highlight, (7) Testimonials section framing, (8) FAQ section — 6 common objections addressed, (9) Final CTA section with urgency. Target: 5%+ conversion rate."
+
+## Prompt 5: Ad Copy Variations
+"Create 10 Google Ads variations (responsive search ads) for our online language learning app. Target keyword group: 'learn Spanish online'. For each ad, provide: (1) 5 headlines (max 30 characters each), (2) 4 descriptions (max 90 characters each). Mix angles: benefit-focused, social proof, urgency, question-based, and feature-specific. Include variations for different learner motivations: travel, career, heritage, and hobby. Landing page: /learn-spanish. Include A/B testing recommendations."

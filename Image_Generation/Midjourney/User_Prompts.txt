@@ -1,0 +1,16 @@
+# User Prompts for Midjourney
+
+## Prompt 1: Cinematic Portrait
+"A regal warrior queen standing on a cliff overlooking a burning kingdom at sunset, intricate golden armor with emerald gemstone details, flowing crimson cape caught in the wind, volumetric lighting with golden hour rays piercing through storm clouds, dramatic chiaroscuro, hyper-detailed skin texture, cinematic composition with shallow depth of field, 8K resolution --ar 2:3 --s 750 --v 6"
+
+## Prompt 2: Fantasy Landscape
+"An ancient floating city above an ocean of clouds at dawn, crystalline towers connected by bridges of light, waterfalls cascading off the edges into the mist below, bioluminescent vegetation growing on the architecture, tiny airships dotting the sky, inspired by Studio Ghibli and Roger Dean, matte painting style, ethereal atmosphere, warm golden and cool blue color palette --ar 21:9 --s 600 --v 6"
+
+## Prompt 3: Product Photography
+"A luxury perfume bottle on a dark marble surface, the bottle is made of smoky translucent glass with liquid gold accents, surrounded by scattered rose petals and droplets of water, dramatic backlighting creating a golden rim light, soft bokeh in the background with warm amber tones, commercial product photography, sharp focus on the bottle, magazine advertisement quality --ar 4:5 --s 400 --style raw --v 6"
+
+## Prompt 4: Architectural Visualization
+"A futuristic sustainable skyscraper in Singapore, parametric facade design with integrated vertical gardens and solar panels, ground level showing a lush biodiverse public park with reflecting pools, people walking and cycling, shot from a low angle looking up, golden hour lighting with long shadows, architectural photography style, clean lines and organic curves, designed by Zaha Hadid Architects --ar 9:16 --s 500 --v 6"
+
+## Prompt 5: Abstract Art
+"An abstract representation of the concept of time, melting clock faces dissolving into a river of stars and galaxies, warm amber and cool indigo color clash, oil paint texture with visible brushstrokes mixed with photorealistic cosmic elements, surrealist style inspired by Salvador Dali meets NASA photography, dynamic spiraling composition, sense of movement and transformation --ar 1:1 --s 900 --c 30 --v 6"

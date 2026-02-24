@@ -1,0 +1,16 @@
+# User Prompts for Trae
+
+## Prompt 1: Builder Mode — Full Application
+"Use Builder mode to create a complete task management PWA with React, TypeScript, and Tailwind CSS. Include: dashboard with task statistics, drag-and-drop Kanban board, task creation/editing with categories and priorities, local storage persistence with option to sync to a REST API, dark/light theme toggle, and search/filter functionality. Generate the complete project with all configurations, components, and styles."
+
+## Prompt 2: Multi-File Feature Implementation
+"Add a real-time collaborative editing feature to my existing document editor. The project uses Vue 3 with Composition API and a Node.js backend. I need: (1) WebSocket server setup with room management, (2) Operational transformation or CRDT logic for conflict resolution, (3) Presence indicators showing active users, (4) Cursor position sharing between users, (5) Connection state management with reconnection logic."
+
+## Prompt 3: Debugging Session
+"My Next.js app has a memory leak that causes the server to crash after ~6 hours of running. The heap grows steadily to 1.5GB before the OOM kill. I suspect it's related to our server-side data fetching in `getServerSideProps` or the Redis connection pool. Help me: (1) Identify common memory leak patterns in the codebase, (2) Add memory profiling instrumentation, (3) Create a diagnostic script to track heap growth, (4) Fix the identified leaks."
+
+## Prompt 4: Code Modernization
+"Modernize this legacy JavaScript project to TypeScript. The project has 40+ files using CommonJS modules, callback-based async patterns, and no type annotations. Please: (1) Set up tsconfig.json with strict mode, (2) Convert files to ES modules with TypeScript, (3) Add proper type definitions and interfaces, (4) Replace callbacks with async/await, (5) Add a lint configuration with ESLint and Prettier."
+
+## Prompt 5: API Development
+"Design and implement a GraphQL API for an e-learning platform using Node.js, TypeGraphQL, and PostgreSQL with Prisma. The schema should include: Users (students/instructors), Courses (with modules and lessons), Enrollments, Progress tracking, Reviews/ratings, and Quiz functionality with various question types. Include authentication, authorization (role-based), input validation, and pagination."

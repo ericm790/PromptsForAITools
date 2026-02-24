@@ -1,0 +1,16 @@
+# User Prompts for Bolt
+
+## Prompt 1: Complete Web Application
+"Build a personal finance tracker web app. Features: (1) Dashboard showing income vs expenses with donut charts, (2) Transaction list with add/edit/delete, categorization, and date range filtering, (3) Budget setting per category with visual progress bars, (4) Monthly reports with line charts showing spending trends, (5) Dark/light mode toggle. Use React, Tailwind CSS, and localStorage for persistence. Make it visually polished with smooth animations."
+
+## Prompt 2: Interactive Tool
+"Create a Markdown editor with live preview. Features: (1) Split-pane layout with editor on left and rendered preview on right, (2) Toolbar with formatting buttons (bold, italic, headings, lists, code blocks, links, images), (3) Syntax highlighting in the editor, (4) Export to HTML and PDF, (5) Multiple document tabs, (6) Word and character count, (7) Auto-save to localStorage. Use a clean, distraction-free design."
+
+## Prompt 3: E-Commerce Store
+"Build a complete e-commerce storefront for a coffee shop. Include: (1) Product catalog with grid/list view toggle and category filtering, (2) Product detail pages with image gallery, descriptions, and size options, (3) Shopping cart with quantity controls and order summary, (4) Checkout form with address and payment mock, (5) Order confirmation page with animation. Use warm, earthy color tones and professional product photos from Unsplash."
+
+## Prompt 4: Social Platform Clone
+"Create a simplified Twitter/X clone with: (1) Feed showing posts with author info, timestamp, like/retweet counts, (2) Compose tweet with character counter and image attachment, (3) User profile page with bio, stats, and post history, (4) Like and retweet functionality with optimistic updates, (5) Explore page with trending topics, (6) Dark mode. Use React with a clean, minimal design. Store data in localStorage."
+
+## Prompt 5: Data Visualization Dashboard
+"Build a weather dashboard that shows: (1) Current conditions with animated weather icons, (2) 7-day forecast with temperature high/low bar chart, (3) Hourly forecast horizontal scroll, (4) Weather metrics (humidity, wind, UV index, pressure) as gauge-style widgets, (5) Location search with autocomplete, (6) Interactive temperature map placeholder. Use a blue-gradient theme with glassmorphism card effects."
